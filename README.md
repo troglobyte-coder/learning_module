@@ -11,3 +11,9 @@ information, if you wanna learn some other
 language or add more languages to your list
 then look around for the programming language
 you wish to learn.
+
+## contact
+
+If you want to contact me and have a few questions
+regarding the topic of programming you can write
+me a letter, my Gmail is <michaelbrockus@gmail.com>.
