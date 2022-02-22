@@ -7,9 +7,11 @@ for teaching new programmers how to write
 code in a programming language, in this
 case, it's written in `X`, it also includes
 notes throughout the project to give further
-information, if you wanna learn some other
-language or add more languages to your list
-then look around for the programming language
+information.
+
+If you wanna learn some other language or add
+more languages to your list then look around
+for a learning module with the programming language
 you wish to learn.
 
 ## contact
