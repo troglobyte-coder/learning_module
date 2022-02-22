@@ -2,12 +2,11 @@
 
 ## overview
 
-The learning module is a list of solutions
-for teaching new programmers how to write
-code in a programming language, in this
-case, it's written in `X`, it also includes
-notes throughout the project to give further
-information.
+The learning module is a tool to help you
+learn with a hands-on approach to coding,
+in this case, it's written in `X`, it also
+includes notes throughout the project to
+give further information.
 
 If you wanna learn some other language or add
 more languages to your list then look around
