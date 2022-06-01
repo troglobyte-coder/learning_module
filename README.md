@@ -16,10 +16,8 @@ you wish to learn.
 ## contact
 
 If you want to contact me and have a few questions
-regarding the topic of programming you can write
+regarding the solutions in the programming you can write
 me a letter, my Gmail is <michaelbrockus@gmail.com>.
 
 You may find that I have some social media platforms
-in which you can follow me. [LinkedIn](https://www.linkedin.com/in/michael-brockus), [Facebook](https://facebook.com/michael.brockus.555), and [Instagram](https://instagram.com/michael_gene_brockus/)
-
-
+in which you can follow me. [LinkedIn](https://www.linkedin.com/in/michael-brockus), [Facebook](https://facebook.com/michael.brockus.555), and [Instagram](https://instagram.com/troglobyte_coder/)
