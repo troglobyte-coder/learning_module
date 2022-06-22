@@ -1,5 +1,5 @@
 ---
-short-description: Learning `X`: Introduction
+short-description: Learning `X` - Introduction
 ...
 
 ## Overview
